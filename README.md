@@ -32,3 +32,14 @@ City Weather App is a web application that allows users to get real-time weather
     ├── humidity.png
     └── wind.png
 
+## Future Enhancements
+- **Add Forecast**: Include a 7-day weather forecast.
+- **Geolocation**: Automatically fetch weather data based on user's location.
+- **Multiple Units**: Allow users to switch between Celsius and Fahrenheit.
+
+## How to Contribute
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes and commit them (`git commit -am 'Add new feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a Pull Request.
